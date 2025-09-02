@@ -6,6 +6,7 @@ The dataset includes customer details such as names, phone numbers, addresses, a
 The goal was to remove duplicates, handle missing values, standardize formats, and prepare a clean dataset ready for analysis.
 
 Key tasks performed in the notebook:
+
 ✅ Removed duplicate rows and duplicate `CustomerID`s  
 ✅ Renamed columns to follow consistent `snake_case` naming  
 ✅ Standardized phone numbers (kept only valid 10-digit numbers, reformatted them)  
