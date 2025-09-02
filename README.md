@@ -8,11 +8,17 @@ The goal was to remove duplicates, handle missing values, standardize formats, a
 Key tasks performed in the notebook:
 
 ✅ Removed duplicate rows and duplicate `CustomerID`s.
+
 ✅ Standardized phone numbers (kept only valid 10-digit numbers, reformatted them).
+
 ✅ Combined first and last names into `full_name`. 
+
 ✅ Handled missing values in `state` and `zip_code` columns.  
+
 ✅ Handled NaN entries.
+
 ✅ Cleaned and unified address fields.
+
 ✅ Exported the final cleaned dataset to a Excel file.  
 
 
